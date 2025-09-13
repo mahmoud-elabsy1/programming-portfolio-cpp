@@ -1,0 +1,16 @@
+# build artifacts
+/build/
+bin/
+obj/
+*.o
+*.obj
+*.exe
+*.out
+
+# VSCode
+.vscode/
+
+# temporary files
+*.log
+*.tmp
+
