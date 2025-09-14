@@ -51,6 +51,7 @@ Run the program:
 
 🎮 Example Output:
 ![Game Output](images/example_output.png)
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/a058ef09-1fb3-494d-8d50-6bbf61801f4a" />
 
 Example interaction:
 
