@@ -52,7 +52,6 @@ Run the program:
 🎮 Example Output:
 ![Game Output](images/example_output.png)
 
-
 Example interaction:
 
 How Many Questions Do you want to answer? 3
