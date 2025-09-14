@@ -50,7 +50,8 @@ Replace main.cpp with your actual filename if different.
 
  Example Output:
 
-[Game Output](images/example_output.png)
+[Game Output](images/example_output.png)!
+
 
 Example interaction:
 
