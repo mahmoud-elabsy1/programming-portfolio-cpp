@@ -49,8 +49,10 @@ Replace main.cpp with your actual filename if different.
 
 
  Example Output:
+<img width="960" height="540" alt="example_output" src="https://github.com/user-attachments/assets/0233080b-141b-44fc-a9fb-dfbc203e551f" />
 
 ![Game Output](images/example_output.png)
+
 
 Example interaction:
 
