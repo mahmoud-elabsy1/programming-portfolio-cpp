@@ -51,8 +51,6 @@ Run the program:
 
 🎮 Example Output:
 
-<img widt<img width="960" height="540" alt="example_output" src="https://github.com/user-attachments/assets/44c630ac-e490-445d-ae56-d96ada6dba88" />
-h="960" height="540" alt="example_output" src="https://github.com/user-attachments/assets/8a1f0607-ee0e-4398-af16-e28e4681d476" />
 
 Example interaction:
 
