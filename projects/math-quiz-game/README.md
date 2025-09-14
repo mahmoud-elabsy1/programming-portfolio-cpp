@@ -7,7 +7,6 @@ After each answer, the program provides immediate feedback and updates the score
 
 ✅ Beginner-friendly C++ project to practice programming fundamentals, loops, enums, and structures.
 
-<img width="960" height="540" alt="example_output" src="https://github.com/user-attachments/assets/b68643cb-0a40-488d-8711-db8877b57e6d" />
 
 ## 🚀 Features:
 
@@ -51,7 +50,8 @@ Run the program:
 
 
 🎮 Example Output:
-![Game Output](images/example_output.png)
+
+<img width="960" height="540" alt="example_output" src="https://github.com/user-attachments/assets/8a1f0607-ee0e-4398-af16-e28e4681d476" />
 
 Example interaction:
 
