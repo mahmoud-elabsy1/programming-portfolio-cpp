@@ -52,6 +52,8 @@ Run the program:
 🎮 Example Output:
 
 
+<img width="960" height="540" alt="example_output" src="https://github.com/user-attachments/assets/cf4e9880-b8f2-40c1-ac98-599ad4caff13" />
+
 Example interaction:
 
 How Many Questions Do you want to answer? 3
