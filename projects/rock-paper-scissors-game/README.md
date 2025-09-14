@@ -42,6 +42,9 @@ Run the program:
 
 🎮 Example Interaction:
 
+
+<img width="960" height="540" alt="example_output" src="https://github.com/user-attachments/assets/0ff61bc5-88db-42d4-b35c-68a38088a65b" />
+
 How Many Rounds 1 to 10? 
 3
 
